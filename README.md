@@ -48,7 +48,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 The chill music used in this project is obtained from [FreeMusicArchive](https://freemusicarchive.org/) and is licensed under [Creative Commons](https://creativecommons.org/licenses/by/3.0/). Attribution goes to the artist [Artist Name](link-to-artist page).
 
-The background image used is from [Unsplash](https://unsplash.com/) and is licensed under the [Unsplash License]([https://unsplash.com/license](https://codepen.io/abdul-1432/pen/MWzVMRR)).
+The background image used is from [Unsplash](https://unsplash.com/) and is licensed under the [Unsplash License]([[https://unsplash.com/license](https://codepen.io/abdul-1432/pen/MWzVMRR)](https://codepen.io/abdul-1432/pen/MWzVMRR)).
 
 ## Contributing
 
@@ -64,4 +64,4 @@ Please make sure your code follows the existing coding style and conventions.
 
 ---
 
-Thank you for checking out Chill Music Player! I hope you find it relaxing and enjoyable. If you have any questions or suggestions, feel free to create an issue or contact me via [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com.
+Thank you for checking out Chill Music Player! I hope you find it relaxing and enjoyable. If you have any questions or suggestions, feel free to create an issue or contact me via [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
