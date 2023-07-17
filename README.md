@@ -2,7 +2,7 @@
 
 Chill Music Player is a simple web application that allows users to play relaxing and soothing music with just a click of a button. It's built using HTML, CSS, and JavaScript, making it easy to integrate into any website or use as a standalone player.
 ## Demo
-You can see the website preview hear [Demo](https://codepen.io/abdul-1432/pen/MWzVMRR)
+You can see the website preview here [Demo](https://codepen.io/abdul-1432/pen/MWzVMRR)
 
 ## Preview
 ![27](https://github.com/abdul-1432/js-27_chill_music_palyer/assets/124916666/3484f618-c1fa-4cb0-9846-f8c2aa2394ca)
@@ -23,11 +23,11 @@ You can see the website preview hear [Demo](https://codepen.io/abdul-1432/pen/MW
 
 ## Customization
 
-If you wish to use your own chill music or customize the player further, follow these steps:
+If you wish to use your chill music or customize the player further, follow these steps:
 
-1. Replace the existing music file with your own MP3 file. Make sure to name it appropriately (e.g., `chill-music.mp3`).
+1. Replace the existing music file with your MP3 file. Make sure to name it appropriately (e.g., `chill-music.mp3`).
 2. Optionally, you can also replace the background image (`bg.jpg`) and adjust the colors in the CSS file to match your preferred design.
-3. Modify the HTML file if you want to add more features or change the layout.
+3. Modify the HTML file to add more features or change the layout.
 
 ## Compatibility
 
@@ -36,17 +36,17 @@ Chill Music Player should work on all modern web browsers that support HTML5 aud
 ## License
 Copyright (c) 2023 by Mohammad Abdul Gafoor (https://codepen.io/abdul-1432/pen/MWzVMRR)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright and permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
 ## Credits
 
-The chill music used in this project is obtained from [FreeMusicArchive](https://freemusicarchive.org/) and is licensed under [Creative Commons](https://creativecommons.org/licenses/by/3.0/). Attribution goes to the artist [Artist Name](link-to-artist-page).
+The chill music used in this project is obtained from [FreeMusicArchive](https://freemusicarchive.org/) and is licensed under [Creative Commons](https://creativecommons.org/licenses/by/3.0/). Attribution goes to the artist [Artist Name](link-to-artist page).
 
 The background image used is from [Unsplash](https://unsplash.com/) and is licensed under the [Unsplash License]([https://unsplash.com/license](https://codepen.io/abdul-1432/pen/MWzVMRR)).
 
